@@ -1,0 +1,10 @@
+# Core application libraries
+crewai
+crewai-tools
+fastapi
+uvicorn
+python-dotenv
+langchain
+pypdf
+langchain-community
+langchain-anthropic
