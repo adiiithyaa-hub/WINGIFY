@@ -1,8 +1,7 @@
 # Blood Test Report Analyser
 
 ## Overview
-This project is a FastAPI-based application for analyzing blood test reports using CrewAI agents and Anthropic Claude. It supports background job processing with Celery and Redis, and now includes database integration for storing analysis results and user data.
-
+This project is a FastAPI-based application for analyzing blood test reports using CrewAI agents and Anthropic Claude. It supports background job processing with Celery and Redis.
 ---
 
 ## 🐞 Initial Bugs and Issues (Pre-Celery)
