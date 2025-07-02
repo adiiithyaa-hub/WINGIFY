@@ -140,7 +140,7 @@ curl -X 'GET' \
 ## ⚡ Notes
 - **Concurrency:** On Redis Cloud free plan, keep Celery concurrency low (1–3) to avoid connection errors.
 - **Environment:** Ensure `.env` is set up with all required API keys.
-- **Database:** Uses SQLite by default; you can switch to PostgreSQL or MySQL if needed.
+
 - **Troubleshooting:**
   - Check Celery and FastAPI logs for errors.
   - Ensure all dependencies are installed and up to date.
